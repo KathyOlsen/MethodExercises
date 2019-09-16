@@ -3,8 +3,6 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner key = new Scanner(System.in);
-
         //2. Divide 2 numbers input by user.
         double num1 = 0;
         double num2 = 0;
